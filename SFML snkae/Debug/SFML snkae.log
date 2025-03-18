@@ -1,0 +1,448 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(39,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(40,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(44,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(45,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,86): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,86): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,86): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,86): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,86): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,56): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,56): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,56): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(117,56): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,73): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,73): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,73): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,73): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,73): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,49): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,49): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,49): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(122,49): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,72): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,72): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,72): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,72): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,48): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,48): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,48): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(124,48): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,79): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,79): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,79): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,79): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,55): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,55): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,55): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(126,55): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,78): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,78): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,78): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,78): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,54): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,54): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,54): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(128,54): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,76): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,76): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,76): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,76): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,52): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,52): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,52): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(130,52): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,72): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,72): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,72): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,72): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,48): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,48): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,48): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(132,48): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,80): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,80): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,80): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,80): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,56): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,56): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,56): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(134,56): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,76): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,76): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,76): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,76): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,76): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,52): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,52): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,52): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(136,52): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,74): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,74): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,74): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,74): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,50): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,50): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,50): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(138,50): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,74): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,74): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,74): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,74): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,50): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,50): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,50): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(140,50): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,80): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,80): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,80): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,80): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,56): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,56): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,56): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(142,56): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(149,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(247,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(247,57): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(247,57): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(247,57): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(247,57): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,84): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,84): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,84): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,84): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,60): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,60): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,60): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,60): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(256,60): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(536,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(536,57): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(536,57): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(536,57): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(536,57): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(180,9): warning C4101: 'wallX': unreferenced local variable
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(180,31): warning C4101: 'wallSizeX': unreferenced local variable
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(180,20): warning C4101: 'wallY': unreferenced local variable
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(180,46): warning C4101: 'wallSizeY': unreferenced local variable
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,83): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,83): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,83): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,83): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,53): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,53): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,53): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(597,53): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,85): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,85): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,85): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,85): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,85): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,55): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,55): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,55): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(599,55): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,82): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,82): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,82): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,82): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,56): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,56): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,56): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(601,56): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,83): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,83): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,83): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,83): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,53): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,53): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,53): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(603,53): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,88): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,88): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,88): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,88): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,58): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,58): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,58): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,58): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(605,58): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,85): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,85): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,85): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,85): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,85): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,55): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,55): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,55): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(607,55): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,105): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,105): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,105): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,105): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,105): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,75): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,75): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,75): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(712,75): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,110): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,110): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,110): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,110): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,110): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,80): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,80): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,80): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(713,80): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,110): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,110): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,110): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,110): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,110): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,80): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,80): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,80): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(714,80): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,110): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,110): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,110): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,110): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,110): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,80): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,80): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,80): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(715,80): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,82): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,82): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,82): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,82): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,52): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,52): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,52): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(740,52): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,78): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,78): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,78): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,78): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,78): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,52): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,52): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,52): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(746,52): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,82): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,82): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,82): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,82): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,52): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,52): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,52): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(752,52): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(769,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(769,55): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(769,55): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(769,55): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(769,55): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,67): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,67): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,67): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,67): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,43): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,43): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,43): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(772,43): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,53): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,53): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,53): warning C4244:             T=float
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,53): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,50): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,50): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,50): warning C4244:             T=float
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(860,50): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(866,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(866,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,60): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,60): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,60): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,60): warning C4244:             T=float
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,60): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,39): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,39): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,39): warning C4244:             T=float
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(884,39): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(894,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(894,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(910,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(910,50): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(910,50): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(910,50): warning C4244:             T=float
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(910,50): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(911,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(911,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(915,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(915,54): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(915,54): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(915,54): warning C4244:             T=float
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(915,54): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(916,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(916,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1016,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1016,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,61): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,61): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,61): warning C4244:             T=float
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,61): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,43): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,43): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,43): warning C4244:             T=float
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1069,43): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1116,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1116,66): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1116,66): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1116,66): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1116,66): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1119,66): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1119,66): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1119,66): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1119,66): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1119,66): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1126,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,83): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,83): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,83): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,83): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,55): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,55): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,55): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1130,55): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,77): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,77): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,77): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,77): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,53): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,53): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,53): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1132,53): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1177,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1177,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1263,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1263,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1286,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1286,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1299,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1300,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1304,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1304,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1318,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1319,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1327,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1328,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1338,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1339,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1353,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1354,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1357,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1357,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1525,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1525,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1587,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1587,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1652,29): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1653,29): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1701,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1702,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1711,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1711,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1715,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1715,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1751,65): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1928,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1928,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1931,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(1931,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2027,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2027,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2030,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2030,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,81): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,81): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,81): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,81): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,81): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,57): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,57): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,57): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2161,57): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,79): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,79): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,79): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,79): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,52): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,52): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,52): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2165,52): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,84): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,84): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,84): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,84): warning C4244:         ]
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,57): warning C4244:         with
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,57): warning C4244:         [
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,57): warning C4244:             T=unsigned int
+C:\Users\Admin\source\repos\SFML snkae\SFML snkae\main.cpp(2166,57): warning C4244:         ]
+  SFML snkae.vcxproj -> C:\Users\Admin\source\repos\SFML snkae\Debug\SFML snkae.exe
